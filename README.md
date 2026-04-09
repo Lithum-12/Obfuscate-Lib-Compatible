@@ -1,6 +1,6 @@
 # Obfuscate Lib Compatible
 
-Fixes the compatibility issue between [MrCrayfish's Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) and [Haubna's Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod) by automatically setting `required` to `false` in `obfuscate.mixins.json`.
+Fixes the compatibility issue between [MrCrayfish's Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) by automatically setting `required` to `false` in `obfuscate.mixins.json`.
 
 ## The Problem
 
